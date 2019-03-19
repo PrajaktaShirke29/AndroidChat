@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.dell.chat.Login"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Welcome to Chat"
+        android:textSize="30dp"
+        android:gravity="center"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="20dp"/>
+
+    <ImageView
+        android:paddingTop="@dimen/margin_avg"
+        android:paddingRight="@dimen/margin_avg"
+        android:paddingLeft="@dimen/margin_avg"
+        android:paddingBottom="@dimen/margin_avg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:src="@drawable/welcome" />
+
+</LinearLayout>

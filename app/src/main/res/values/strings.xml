@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Chat</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_login">Login</string>
+    <string name="action_register">Register</string>
+    <string name="action_alarm">Alarm</string>
+    <string name="action_stopwatch">Stopwatch</string>
+    <string name="action_about">About</string>
+</resources>

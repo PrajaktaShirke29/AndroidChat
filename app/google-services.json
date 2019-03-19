@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "988542329673",
+    "firebase_url": "https://chat-20c79.firebaseio.com",
+    "project_id": "chat-20c79",
+    "storage_bucket": "chat-20c79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988542329673:android:a9a79f3c7bb088c8",
+        "android_client_info": {
+          "package_name": "com.example.dell.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988542329673-emm1eeslnefm2ehvi22kg8a8eqmht4h2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.chat",
+            "certificate_hash": "f4646f7df8f7b6f10a9665161ea40b077509dcc3"
+          }
+        },
+        {
+          "client_id": "988542329673-hmj6g461q2alr0ms82de31mkbl022sbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa00DBPFXA5r5wll_6qdlsrraDBSl1E0w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988542329673-hmj6g461q2alr0ms82de31mkbl022sbq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
